@@ -1,0 +1,130 @@
+{
+    "profesores": [
+        {
+            "nombre": "José",
+            "apellido": "Peréz",
+            "materias": [
+                {
+                    "nombre": "Matématicas Discreta"
+                },
+                {
+                    "nombre": "Física I"
+                },
+                {
+                    "nombre": "Programación Orientada a Objetos"
+                }
+            ],
+            "id": "2bcd"
+        },
+        {
+            "id": "caac",
+            "nombre": "Jimmy",
+            "apellido": "Berzoza",
+            "materias": [
+                {
+                    "nombre": "Desarrollo de aplicaciones movíles"
+                },
+                {
+                    "nombre": "Programación Visual"
+                },
+                {
+                    "nombre": "Tendencias actuales de la programación"
+                }
+            ]
+        }
+    ],
+    "alumnos": [
+        {
+            "nombre": "Ana",
+            "apellido": "Rodriguez",
+            "cursos": [
+                {
+                    "matricula": "10",
+                    "materia": "Matématicas Discreta",
+                    "promedio": 9.4
+                },
+                {
+                    "matricula": "10",
+                    "materia": "Programación Visual",
+                    "promedio": 7.3
+                },
+                {
+                    "matricula": "10",
+                    "materia": "Física I",
+                    "promedio": 8.1
+                }
+            ],
+            "id": "9f11"
+        },
+        {
+            "nombre": "Lucas",
+            "apellido": "García",
+            "cursos": [
+                {
+                    "matricula": "11",
+                    "materia": "Matématicas Discreta",
+                    "promedio": 8.1
+                },
+                {
+                    "matricula": "11",
+                    "materia": "Programación Visual",
+                    "promedio": 6.3
+                },
+                {
+                    "matricula": "11",
+                    "materia": "Física I",
+                    "promedio": 7.5
+                }
+            ],
+            "id": "cb1c"
+        },
+        {
+            "nombre": "María",
+            "apellido": "Sánchez",
+            "cursos": [
+                {
+                    "matricula": "12",
+                    "materia": "Matématicas Discreta",
+                    "promedio": 9.0
+                },
+                {
+                    "matricula": "12",
+                    "materia": "Programación Visual",
+                    "promedio": 7.8
+                },
+                {
+                    "matricula": "12",
+                    "materia": "Física I",
+                    "promedio": 8.8
+                }
+            ],
+            "id": "8d6c"
+        }
+    ],
+    "cursos": [
+        {
+            "nombre": "Matématicas Discreta",
+            "duración": "5 meses",
+            "dificultad": "intermedia",
+            "id": "9808"
+        },
+        {
+            "nombre": "Física I",
+            "duración": "5 meses",
+            "dificultad": "intermedia",
+            "id": "2ec5"
+        },
+        {
+            "nombre": "Programación Orientada a Objetos",
+            "duración": "5 meses",
+            "dificultad": "intermedia",
+            "id": "b9ea"
+        },
+        {
+            "id": "e8ce",
+            "nombre": "Análisis de Sistemas",
+            "duración": "5 meses",
+            "dificultad": "intermedia"
+        }
+    ]
+}
